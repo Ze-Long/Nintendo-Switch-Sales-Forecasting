@@ -19,4 +19,11 @@ Long Short-Term Memory
   
 ## Model Performance
 
+![alt tag](https://github.com/Ze-Long/Nintendo-Switch-Sales-Forecasting/blob/master/Images/RandomForest.png)
+
+![alt tag](https://github.com/Ze-Long/Nintendo-Switch-Sales-Forecasting/blob/master/Images/XGBoost.png)
+
+![alt tag](https://github.com/Ze-Long/Nintendo-Switch-Sales-Forecasting/blob/master/Images/MLP2.png)
+
+![alt tag](https://github.com/Ze-Long/Nintendo-Switch-Sales-Forecasting/blob/master/Images/LSTM2.png)
 
